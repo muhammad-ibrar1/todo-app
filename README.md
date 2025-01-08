@@ -1,6 +1,4 @@
 
 
-## About Laravel
-
-laravel setup through docker 
-docker contain up command to execute project
+## laravel setup through docker 
+## docker contain up command to execute project
